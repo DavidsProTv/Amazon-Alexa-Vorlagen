@@ -4,7 +4,7 @@ Vorlagen für die Amazon Alexa Skills.
 ## Übersicht
 #### [Skill Liste](#skills)
 #### [Einführung](#einführung)
-#### [Über mich](#über-mich)
+#### [Über mich](#über-mich-1)
 
 ## Einführung
 
