@@ -3,8 +3,8 @@ Vorlagen für die Amazon Alexa Skills.
 
 ## Übersicht
 #### [Skill Liste](#skills)
-#### [Einführung](#einführung)
-#### [Über mich](#über-mich-1)
+#### [Einführungs Video](#einführung)
+#### [Über mich](#infos)
 
 ## Einführung
 
@@ -16,7 +16,7 @@ Vorlagen für die Amazon Alexa Skills.
 | ------------- | :-------------: | :-------------: | -----: |
 | 1. Skill | Noch nicht da | Noch nicht da | Noch nicht da|
 
-## Über mich
+## Infos
 
 Twitter: https://twitter.com/DavidsProTv
 YouTube: https://www.youtube.com/channel/UCkTyHQLGOV5GQ8LcnvMgKzg
