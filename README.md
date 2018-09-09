@@ -19,5 +19,7 @@ Vorlagen für die Amazon Alexa Skills.
 ## Infos
 
 Twitter: https://twitter.com/DavidsProTv
+
 YouTube: https://www.youtube.com/channel/UCkTyHQLGOV5GQ8LcnvMgKzg
+
 Zur Video Reihe: https://www.youtube.com/playlist?list=PLGPcarCptDZZ0Uez1yHnl1KCMeZdEcKXq
