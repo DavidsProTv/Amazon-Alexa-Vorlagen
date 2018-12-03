@@ -14,7 +14,10 @@ Vorlagen für die Amazon Alexa Skills.
 
 | Skill Name | Video auf YouTube dazu | Link zur Datei | Upload |
 | ------------- | :-------------: | :-------------: | -----: |
-| 1. Skill | Noch nicht da | Noch nicht da | Noch nicht da|
+| 1. Skill | https://www.youtube.com/watch?v=35R1OENhNew | Ist meine Seite online | Online |
+| 2. Skill | https://www.youtube.com/watch?v=nM9PBK5rO0E | Countdown Skill  | Online |
+| 3. Skill | https://www.youtube.com/watch?v=8uGyVjxmXiY | Mit Alexa Skill YouTube Abozahl abrufen, wie? | Online |
+| 4. Skill | Noch nicht online | Noch nicht online | Noch nicht online |
 
 ## Infos
 
