@@ -1,0 +1,15 @@
+DirectoryIndex index.php
+Options -Indexes
+
+ErrorDocument 403 /fehler.php?error=403
+ErrorDocument 404 /fehler.php?error=404
+
+<Files *.js>
+Header add "Cache-Control" "max-age=604800"
+</Files>
+
+<Files *.css>
+Header add "Cache-Control" "max-age=604800"
+</Files>
+
+php_value error_reporting 2039
