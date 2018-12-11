@@ -21,7 +21,13 @@ Vorlagen für die Amazon Alexa Skills.
 | Schere Stein Papier Skill | https://youtu.be/sMKcMoz-_pg | https://github.com/DavidsProTv/Amazon-Alexa-Vorlagen/tree/master/Schere%20Stein%20Papier | Online |
 | Tipps gegen Langeweile | https://youtu.be/Ar6C6KlKyj8 | https://github.com/DavidsProTv/Amazon-Alexa-Vorlagen/tree/master/Tipps%20gegen%20Langeweile | Online |
 | YouTube Videos mit Amazon Alexa hören | https://youtu.be/Z8hth0hyd8Q | https://github.com/DavidsProTv/Amazon-Alexa-Vorlagen/tree/master/YouTube%20Videos%20mit%20Amazon%20Alexa | Online |
-| 7. Skill | Noch nicht online | Noch nicht online | Noch nicht online |
+| Beim letztem YouTube Videos Likes abrufen | https://youtu.be/rHozvXHcJdA | https://github.com/DavidsProTv/Amazon-Alexa-Vorlagen/tree/master/Beim%20letztem%20YouTube%20Videos%20Likes%20abrufen | Online |
+| 7. Skill | | Beim letztem YouTube Videos Likes abrufen | https://youtu.be/rHozvXHcJdA | https://github.com/DavidsProTv/Amazon-Alexa-Vorlagen/tree/master/Beim%20letztem%20YouTube%20Videos%20Likes%20abrufen | Online |
+ | Noch nicht online | Online |
+| Ja nein vielleicht | https://youtu.be/eYhip8-cUDw | https://github.com/DavidsProTv/Amazon-Alexa-Vorlagen/tree/master/Ja%20nein%20vielleicht | Online |
+| Browser Player | https://youtu.be/FHDoOrxnLN0 | https://github.com/DavidsProTv/Amazon-Alexa-Vorlagen/tree/master/Browser%20Player | Online |
+| Komplimente Vergeber | https://youtu.be/XOW82yZ3sw0 | https://github.com/DavidsProTv/Amazon-Alexa-Vorlagen/tree/master/Komplimente%20Vergeber | Online |
+| Gaming Fakten ohne MySQL | https://youtu.be/mqeqwP6Ev6Q | https://github.com/DavidsProTv/Amazon-Alexa-Vorlagen/tree/master/Gaming%20Fakten%20ohne%20MySQL | Online |
 
 ## Benötigt
 
