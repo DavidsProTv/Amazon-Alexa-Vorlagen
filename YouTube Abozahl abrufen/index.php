@@ -39,7 +39,7 @@ switch ($intent) {
 			                'text' => $text,
 			                'ssml' => null
 			          ],
-	              'shouldEndSession' => false
+	              'shouldEndSession' => true
 			    ]
 			];
 			break;
@@ -54,7 +54,7 @@ switch ($intent) {
 		                'text' => $text,
 		                'ssml' => null
 		          ],
-              'shouldEndSession' => false
+              'shouldEndSession' => true
 		    ]
 		];
 		break;
